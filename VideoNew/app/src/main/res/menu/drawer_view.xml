@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_third_fragment"
+            android:icon="@drawable/ic_account_box_grey600_36dp"
+            android:title="MapFeeds"
+            />
+        <item
+            android:id="@+id/nav_first_fragment"
+            android:icon="@drawable/ic_human_male_female_grey600_36dp"
+            android:title="Friends"
+
+            />
+        <item
+            android:id="@+id/nav_second_fragment"
+            android:icon="@drawable/ic_account_box_grey600_36dp"
+            android:title="Second"
+            />
+
+    </group>
+
+</menu>

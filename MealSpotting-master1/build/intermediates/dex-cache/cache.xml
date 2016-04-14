@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Siddharth/StudioProjects/MealSpotting-master1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Siddharth/StudioProjects/MealSpotting-master1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_1c3d4cb9817ceea7edddd8c2afa128ffe708605b.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Siddharth/StudioProjects/MealSpotting-master1/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_0f9ad20954f97cc3e93c89f78244e338156985b4.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/MealSpotting-master1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Siddharth/StudioProjects/MealSpotting-master1/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_8b4c50711c9f28344c1a6fab10f46b8e463230ea.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/MealSpotting-master1/app/libs/Parse-1.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e8103ce86a50fbba8d4107651f3b05a7d5227c58">
+        <dex dex="/Users/Siddharth/StudioProjects/MealSpotting-master1/app/build/intermediates/pre-dexed/debug/Parse-1.3.2_7331a9f15483c7fd3eed54c1373ac0aacb402b98.jar" />
+    </item>
+
+</items>

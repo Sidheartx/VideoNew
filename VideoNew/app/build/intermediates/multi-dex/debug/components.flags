@@ -1,0 +1,70 @@
+-injars /Users/Siddharth/StudioProjects/VideoNew/app/build/intermediates/multi-dex/debug/allclasses.jar
+-outjars /Users/Siddharth/StudioProjects/VideoNew/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/Siddharth/Library/Android/sdk/build-tools/23.0.1/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontpreverify
+-dontwarn
+-printconfiguration /Users/Siddharth/StudioProjects/VideoNew/app/build/intermediates/multi-dex/debug/components.flags
+
+
+-keep class io.wyntr.peepster.VideoCompressorApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class io.wyntr.peepster.MainActivity {
+    <init>();
+}
+
+-keep class io.wyntr.peepster.LoginActivity {
+    <init>();
+}
+
+-keep class io.wyntr.peepster.RecipientsActivity {
+    <init>();
+}
+
+-keep class io.wyntr.peepster.MapFeedsFragment {
+    <init>();
+}
+
+-keep class io.wyntr.peepster.BlockedUsers {
+    <init>();
+}
+
+-keep class io.wyntr.peepster.SingleVideoView {
+    <init>();
+}
+
+-keep class io.wyntr.peepster.EditFriendsActivity {
+    <init>();
+}
+
+-keep class io.wyntr.peepster.EditProfileActivity {
+    <init>();
+}
+
+-keep class io.wyntr.peepster.MyPosts {
+    <init>();
+}
+
+-keep class io.wyntr.peepster.SplashActivity {
+    <init>();
+}
+
+-keep class io.wyntr.peepster.SmsReceiver {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

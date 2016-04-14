@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <ImageView
+        android:id="@+id/videoThumb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"/>
+
+
+
+
+    <TextView
+
+        android:id="@+id/grid_item_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="User"
+
+        android:textColor="@color/black"
+        android:ellipsize="marquee"
+        android:textSize="12sp" />
+    <TextView
+        android:id="@+id/grid_item_distance"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="Distance"
+        android:maxLines="1"
+        android:maxLength="4"
+        android:textSize="12sp"/>
+
+</LinearLayout><!-- From: file:/Users/Siddharth/StudioProjects/VideoNew/app/src/main/res/layout/feeds_image.xml -->

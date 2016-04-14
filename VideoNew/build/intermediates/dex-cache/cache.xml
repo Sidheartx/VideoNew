@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-2c5a7b0b756b94cbade804f6bf9b0e9737705b99.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-f35633bf7ba8104b4ac140bc663294144a592864.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/commons-io-2.4-e4b4c0935cb573ad7c7d45c3804b251d46333a20.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-55cb15673ec5cd058913490b588cce44646c7d11.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-ccca2e4dd97702c963334363c74984aacad09e94.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-f7bf2626fc0b10e2f479fe4976df0b77e36105c5.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-613fba5826d3b26302c988c738ba8e7fddef4599.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0-d97163bab8e617fb5666fbb9cd8a3f4d3a1877eb.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-ae3feab7997d128b3f60701d62a8e612f63f134c.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-257764b3d1ced655c7dbed7451f1f46f3149531e.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-3cf88217a9b4dd27a4231b25b5f92c7cfbbe158e.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.4.0/cc174c559b5177982887bf6e1b76003aebad9516/bolts-android-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cc174c559b5177982887bf6e1b76003aebad9516">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/bolts-android-1.4.0-ec38a1e93d4fd40ca113e9b273c6e89a6565ad60.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0-d97163bab8e617fb5666fbb9cd8a3f4d3a1877eb.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-cb9da2f44f249fd58ab3c6852769b69502852df8.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-986ab1861dbe8d0016df643c8ba75808133a99af.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/libs/aspectjrt-1.7.3 (1).jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1efcd30e7c12f0c0d5b0df412c7304c735035ed">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/aspectjrt-1.7.3 (1)-9aebebd4069283d964712c296e3585e9813a4d07.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0-6beec0cc609845ba89aef8e8056c9c3a74930d16.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/libs/picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/picasso-2.1.1-8e076b7fb7e9ef54bfbc62fd0492c47ae8120c4c.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-fe05064d4d43274e2e1d5e03d14dff12dfd8b82a.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-76dd1a3538c7e70782d47e4f6114ad8b697bb2d9.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-257764b3d1ced655c7dbed7451f1f46f3149531e.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-daeb653b3a7501c8f341c6398503a0ffb0d6d21c.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-f114b99977077f4285f1d93f5f9e5692df19ad37.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0-10d7ce961b414c91208433bda6a01402f3c81f58.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-4b8f0aa0bba5f08c9eacd702544cf7b5a37eb477.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-8566b8c2682b61f2ef5cea455ee3ad6e3a4983fa.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-a1e2785503dc3670c98d3ce709b73c47de8d683f.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-dfea763b77aa40490334d2ce777fa16bffcaf272.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-3507ce5d72264a465b708e7e9e0ea940d289504e.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-850848f5aaec3922e88c5fcd577bf0144a8c13ef.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/libs/isoparser-1.0.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2f9b0233a54d1fcbf84867b0e2518842cb0cd965">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/isoparser-1.0.6-5980d01de4b935148072f1528db67c63ad0f2687.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-a1e2785503dc3670c98d3ce709b73c47de8d683f.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-abbaeb3a2659f4e7e57639a11760f6df5e0130eb.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/libs/isoparser-1.0.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2f9b0233a54d1fcbf84867b0e2518842cb0cd965">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/isoparser-1.0.6-5980d01de4b935148072f1528db67c63ad0f2687.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="62209cacb78ffe64f71ed8527fd08d8fbb9fd433">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-b773cbee0bdd58a8a0e9a7fd2909717e78a97467.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-55cb15673ec5cd058913490b588cce44646c7d11.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-631bf1ce879384bd9a5cfa8ead0fcca9c8d6aa33.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-23bf2595d8341246f4d5d0287cc938d2cff56802.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/libs/aspectjrt-1.7.3 (1).jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a1efcd30e7c12f0c0d5b0df412c7304c735035ed">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/aspectjrt-1.7.3 (1)-9aebebd4069283d964712c296e3585e9813a4d07.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-a22be0e04898985ce88f32d623e2049a460d22bb.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-2c081959afc8c67b1ed2667c9e2d5cc6b910aed1.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-6cff4bce4e0461fbd817a492ef451ba18626392e.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-d9d21082e3759d71b100f1c18d1a4f60b9cb408a.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0-6beec0cc609845ba89aef8e8056c9c3a74930d16.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/libs/isoparser-1.0.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f9b0233a54d1fcbf84867b0e2518842cb0cd965">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/isoparser-1.0.6-5980d01de4b935148072f1528db67c63ad0f2687.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-a52dba110f4b9fa2f873e26e4284a3a40dce03dd.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-82a0217293e7c8f17b7b619b88b6699ea40c6b8d.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-850848f5aaec3922e88c5fcd577bf0144a8c13ef.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-866d612c1080941dd72e492e53ec7943842d32ec.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/parse-android-1.13.0-b090622e8b3eb452829f437ebdc45f7ab65a4a8f.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/classes-1d6c9afe47dbfd209a725bb705c0d2bf029759a7.jar" />
+    </item>
+    <item
+        jar="/Users/Siddharth/StudioProjects/VideoCompressor/app/libs/aspectjrt-1.7.3 (1).jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a1efcd30e7c12f0c0d5b0df412c7304c735035ed">
+        <dex dex="/Users/Siddharth/StudioProjects/VideoCompressor/app/build/intermediates/pre-dexed/debug/aspectjrt-1.7.3 (1)-9aebebd4069283d964712c296e3585e9813a4d07.jar" />
+    </item>
+
+</items>
