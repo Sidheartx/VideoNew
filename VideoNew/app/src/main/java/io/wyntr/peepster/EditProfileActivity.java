@@ -18,6 +18,16 @@ import android.widget.ImageView;
 import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
+import java.util.Calendar;
+import android.app.Activity;
+import android.app.DatePickerDialog;
+import android.app.Dialog;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.View;
+import android.widget.DatePicker;
+import android.widget.TextView;
+import android.widget.Toast;
 
 import com.parse.GetDataCallback;
 import com.parse.LogOutCallback;
@@ -39,6 +49,12 @@ public class EditProfileActivity extends AppCompatActivity {
     private Switch setting1, setting2, setting3;
     private int REQUEST_CONTACTS=1;
     ImageView profilepic;
+    /////calender and date picker/////
+    private DatePicker datePicker;
+    private Calendar calendar;
+    private TextView dateView;
+    private int year, month, day;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -52,6 +68,8 @@ public class EditProfileActivity extends AppCompatActivity {
 
         TextView phoneNumberField = (TextView) findViewById(R.id.phoneNumberField);
        // phoneNumberField.setText(LoginActivity.phoneNumber);
+        dateView = (TextView) findViewById(R.id.setdateview);
+        calendar = Calendar.getInstance();
 
         nameField = (EditText) findViewById(R.id.nameField);
         Button propicchange = (Button)findViewById(R.id.propicchange);
@@ -222,6 +240,36 @@ public class EditProfileActivity extends AppCompatActivity {
                 finish();
             }
         });
+    }
+    public void setDate(View view) {
+        showDialog(999);
+        Toast.makeText(getApplicationContext(), "ca", Toast.LENGTH_SHORT)
+                .show();
+    }
+
+    @Override
+    protected Dialog onCreateDialog(int id) {
+        // TODO Auto-generated method stub
+        if (id == 999) {
+            return new DatePickerDialog(this, myDateListener, year, month, day);
+        }
+        return null;
+    }
+
+    private DatePickerDialog.OnDateSetListener myDateListener = new DatePickerDialog.OnDateSetListener() {
+        @Override
+        public void onDateSet(DatePicker arg0, int arg1, int arg2, int arg3) {
+            // TODO Auto-generated method stub
+            // arg1 = year
+            // arg2 = month
+            // arg3 = day
+            showDate(arg1, arg2+1, arg3);
+        }
+    };
+
+    private void showDate(int year, int month, int day) {
+        dateView.setText(new StringBuilder().append(day).append("/")
+                .append(month).append("/").append(year));
     }
 
 

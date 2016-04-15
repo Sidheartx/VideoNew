@@ -119,9 +119,20 @@
             android:layout_height="wrap_content"
             android:text="Change"
             android:id="@+id/changedate"
+            android:onClick="setDate"
             android:layout_above="@+id/saveSettingsButton"
             android:layout_alignStart="@+id/propicchange"
             android:layout_marginBottom="84dp" />
+
+        <TextView
+            android:layout_width="100dp"
+
+            android:text="New Text"
+            android:id="@+id/setdateview"
+            android:layout_height="50dp"
+
+            android:layout_alignBottom="@+id/changedate"
+            android:layout_alignStart="@+id/birthday" />
 
 
     </RelativeLayout>
